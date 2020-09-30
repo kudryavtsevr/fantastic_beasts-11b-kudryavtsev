@@ -1,0 +1,116 @@
+html{background-color: black;}
+a{color: white;}
+a:visited{color: #cecece;}
+a:active{color:white;}
+p{font-size: 25px}
+
+.upper
+{
+border-spacing: 0px;
+border-radius: 20px; 
+overflow: hidden; 
+background-color: #383838; 
+color: #fefefe; 
+width: calc(100vw - 40px); 
+margin: 20px auto;
+font-size: 20px;
+}
+
+.upper_img
+{
+font-family: "Calibri";
+font-size: 20px;
+color: white;
+}
+
+.upper img
+{
+ display: block;
+ max-width: calc(100% + 1px);
+ margin-bottom: -125px;
+}
+
+.upper_img_text
+{
+height: 100px;
+width: 100%;
+font-family: "Calibri";
+font-size: 47px;
+font-weight: 600;
+padding: 0px 0px 30px 0px;
+border-spacing: 20px 0px;
+}
+
+.upper_texts
+{
+color: #fefefe;
+margin: 20px;
+}
+
+.upper_text
+{
+font-family: "Calibri Light";
+font-size: 25px;
+padding: 5px;
+}
+
+.content
+{
+color: white; 
+font-family: "Calibri Light"; 
+margin: -5px 15px 0px 15px; 
+border-spacing: 0px 15px; 
+font-size: 20px;
+}
+
+.spisok
+{
+color: white;
+font-family: "Calibri Light";
+font-size: 25px;
+padding-left: 10px;
+}
+
+.zagolovok
+{
+color:white;
+font-family: "Calibri Light";
+font-weight:600;
+font-size:27px;
+margin: 0px 15px;
+}
+
+.low_img img
+{
+display:block;
+margin: 19px auto;
+}
+
+.footer
+{
+border-radius:20px;
+owerflow: hidden;
+color: #fefefe;
+margin: 20px auto 20px auto;
+background-color:#323232;
+width: calc(100vw-50px);
+border-spacing: 0px;
+}
+
+.nadpis1
+{
+font-family: "Calibri";
+text-align:center;
+padding: 5px auto;
+font-weight: 800;
+font-size:24px;
+}
+
+.nadpis2
+{
+font-family: "Calibri";
+text-align:center;
+padding: 5px 0px 27px 0px;
+font-size:23px;
+font-weight:500;
+}
